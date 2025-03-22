@@ -26,7 +26,7 @@ This portfolio provides an interactive and informative showcase of my work, incl
 
 If you'd like to fork this repository and customize it for your own portfolio, follow these steps:
 
-1. Clone the repository: `git clone git clone https://github.com/amanpandey3956/Portfolio.git`.
+1. Clone the repository: `git clone git clone https://github.com/vishaldubey1976/Portfolio.git`.
 
 2. Install the dependencies: `npm install or yarn install`.
 
@@ -46,4 +46,4 @@ Feel free to customize the content by replacing my information with your own in 
 
 ## 📬 Connect with Me
 
-- My [Links for Socials](https://linktr.ee/Aman.Pandey).
+- My [Links for Socials](https://www.linkedin.com/in/vishaldubey2002).
